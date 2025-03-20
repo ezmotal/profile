@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezmotal" alt="ezmotal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/coder652905" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/coder652905?logo=twitter&style=for-the-badge" alt="https://x.com/coder652905" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/coder652905" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/coder652905?logo=twitter&style=for-the-badge" 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
